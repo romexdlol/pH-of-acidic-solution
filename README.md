@@ -5,3 +5,5 @@ For simple acidic solutions (those commmonly found in introductory general-chemi
 For more complex acidic solutions that require the use of mass charge balance, a numerical solver with maximum of 1000 iterations is used to systematically approximate the pH of the solution.
 
 The program assumes the user responds to the prompted input with the syntax given in the input.
+
+The acids.txt will be stored locally on the users computer and when the user adds a new acid, it will be stored in acids.txt so future uses of that same acid will not require an input of pka values.
